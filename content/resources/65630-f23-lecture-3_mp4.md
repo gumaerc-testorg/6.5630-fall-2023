@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-5630-advanced-topics-in-cryptography-fall-2023/65630-f23-lecture-3_360p_16_9.mp4
+file: courses/advanced-topics-in-cryptography/65630-f23-lecture-3_360p_16_9.mp4
 file_size: 160788084
 file_type: video/mp4
 image_metadata:
@@ -22,7 +22,7 @@ video_files:
   video_transcript_file: /courses/6-5630-advanced-topics-in-cryptography-fall-2023/1jrc5t0mfqMjBG2qlnHwFPlWEmHp6qd0p_transcript.pdf
 video_metadata:
   video_speakers: Rachel Y. Zhang
-  video_tags: GKR protocol, computing, add gates, multiply gates
+  video_tags: GKR protocol, computing, add gates, multiply gates, 6-5630-advanced-topics-in-cryptography-fall-2023
   youtube_description: "MIT 6.5630 Advanced Topics in Cryptography, Fall 2023\nInstructor:\
     \ Rachel Y. Zhang\n \nView the complete course:  https://ocw.mit.edu/courses/6-5630-advanced-topics-in-cryptography-fall-2023/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61EZllk7zwgvPbI4kbnKhWz\n\

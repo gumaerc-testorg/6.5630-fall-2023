@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-5630-advanced-topics-in-cryptography-fall-2023/65630-f23-lecture-5-part-2_360p_16_9.mp4
+file: courses/advanced-topics-in-cryptography/65630-f23-lecture-5-part-2_360p_16_9.mp4
 file_size: 101953545
 file_type: video/mp4
 image_metadata:
@@ -22,7 +22,8 @@ video_files:
   video_transcript_file: /courses/6-5630-advanced-topics-in-cryptography-fall-2023/1UvPxWvTsrlHPtJXMSTMDWrMw05Di_7SF_transcript.pdf
 video_metadata:
   video_speakers: Yael T. Kalai
-  video_tags: collision resistant hash, CRH, PCP, interactive arguments, Merkle hash
+  video_tags: collision resistant hash, CRH, PCP, interactive arguments, Merkle hash,
+    6-5630-advanced-topics-in-cryptography-fall-2023
   youtube_description: "MIT 6.5630 Advanced Topics in Cryptography, Fall 2023\nInstructor:\
     \ Yael T. Kalai\n \nView the complete course:  https://ocw.mit.edu/courses/6-5630-advanced-topics-in-cryptography-fall-2023/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61EZllk7zwgvPbI4kbnKhWz\n\

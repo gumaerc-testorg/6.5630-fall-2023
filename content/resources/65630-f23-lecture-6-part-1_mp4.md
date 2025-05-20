@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-5630-advanced-topics-in-cryptography-fall-2023/65630-f23-lecture-6-part-1_360p_16_9.mp4
+file: courses/advanced-topics-in-cryptography/65630-f23-lecture-6-part-1_360p_16_9.mp4
 file_size: 192635352
 file_type: video/mp4
 image_metadata:
@@ -23,7 +23,7 @@ video_files:
 video_metadata:
   video_speakers: Yael T. Kalai
   video_tags: Random Oracle Model, ROM, Fiat-Shamir paradigm, Kilian-Micali protocol,
-    Zero-Knowledge Proofs, ZKP
+    Zero-Knowledge Proofs, ZKP, 6-5630-advanced-topics-in-cryptography-fall-2023
   youtube_description: "MIT 6.5630 Advanced Topics in Cryptography, Fall 2023\nInstructor:\
     \ Yael T. Kalai\n \nView the complete course:  https://ocw.mit.edu/courses/6-5630-advanced-topics-in-cryptography-fall-2023/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP61EZllk7zwgvPbI4kbnKhWz\n\

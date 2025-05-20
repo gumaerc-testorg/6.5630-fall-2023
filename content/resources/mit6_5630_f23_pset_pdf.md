@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-5630-advanced-topics-in-cryptography-fall-2023/mit6_5630_f23_pset.pdf
+file: courses/advanced-topics-in-cryptography/mit6_5630_f23_pset.pdf
 file_size: 149301
 file_type: application/pdf
 image_metadata:
