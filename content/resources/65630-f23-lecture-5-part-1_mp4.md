@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/advanced-topics-in-cryptography/65630-f23-lecture-5-part-1_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/6-5630-advanced-topics-in-cryptography-fall-2023/65630-f23-lecture-5-part-1_360p_16_9.mp4
 file_size: 212409392
 file_type: video/mp4
 image_metadata:
