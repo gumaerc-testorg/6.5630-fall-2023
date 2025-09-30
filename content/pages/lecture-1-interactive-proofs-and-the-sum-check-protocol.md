@@ -14,7 +14,7 @@ uid: 9ac6d137-d4f8-4ef1-beb0-46e861d75251
 
 ## Readings
 
-J. Thaler, "[Proofs, Arguments, and Zero-Knowledge (PDF)](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)," chapters 3.1,  4.1, and 4.2.
+J. Thaler, "{{% resource_link "2cfffc10-45a0-4385-a714-2341de22e16f" "Proofs, Arguments, and Zero-Knowledge (PDF)" %}}," chapters 3.1,  4.1, and 4.2.
 
 ## Lecture Videos
 

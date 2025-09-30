@@ -14,7 +14,7 @@ uid: 5e4778ef-b6c4-4a8f-89e3-ac10e8153d5f
 
 ## Readings
 
-S. Micali, "[Computationally Sound Proofs (PDF)](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/Computationally_Sound_Proofs.pdf)." SIAM J. COMPUT. Vol. 30, No. 4, pp. 1253–1298.
+S. Micali, "{{% resource_link "2b938420-e890-4633-8d96-8d22239fde1c" "Computationally Sound Proofs (PDF)" %}}." SIAM J. COMPUT. Vol. 30, No. 4, pp. 1253–1298.
 
 ## Lecture Videos
 
