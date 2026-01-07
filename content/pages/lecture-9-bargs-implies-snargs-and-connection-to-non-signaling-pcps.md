@@ -14,8 +14,8 @@ uid: 5158b18f-daa0-4f68-8801-972fc89d9083
 
 ## Readings
 
-- A. R. Choudhuri, A. Jain, and Z. Jin, "{{% resource_link "817d9ebd-020a-4b59-a4cb-28525a0d9581" "SNARGs for  P  from LWE (PDF)" %}}," 2021 IEEE 62nd Annual Symposium on Foundations of Computer Science (FOCS), Denver, CO, USA, 2022, pp. 68–79, doi: 10.1109/FOCS52979.2021.00016.
-- Y.T. Kalai, V. Vaikuntanathan, and R. Y. Zhang, "{{% resource_link "9962d837-6d4c-451f-a721-4a9c4debebe6" "Somewhere Statistical Soundness, Post-Quantum Security, and SNARGs (PDF)" %}}." Theory of Cryptography: 19th International Conference, TCC 2021, Raleigh, NC, USA, November 8–11, 2021, Proceedings, Part I, pp. 330–368.
+- A. R. Choudhuri, A. Jain, and Z. Jin, "[SNARGs for  P  from LWE (PDF)](https://eprint.iacr.org/2021/808.pdf)," 2021 IEEE 62nd Annual Symposium on Foundations of Computer Science (FOCS), Denver, CO, USA, 2022, pp. 68–79, doi: 10.1109/FOCS52979.2021.00016.
+- Y.T. Kalai, V. Vaikuntanathan, and R. Y. Zhang, "[Somewhere Statistical Soundness, Post-Quantum Security, and SNARGs (PDF)](https://eprint.iacr.org/2021/788)." Theory of Cryptography: 19th International Conference, TCC 2021, Raleigh, NC, USA, November 8–11, 2021, Proceedings, Part I, pp. 330–368.
 
 ## Lecture Videos
 
